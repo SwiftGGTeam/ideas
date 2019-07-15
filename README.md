@@ -38,7 +38,7 @@
 
 整合我们的所有内容，提供统一入口，也可以作为起点扩展加入更多功能（卖周边、论坛等等）。
 
-设计图：https://zpl.io/aNmPNrD
+设计图（注册后找 @Roc 邀请才能查看）：https://zpl.io/aNmPNrD
 
 iOS 代码（冬瓜原话：只实现了架构范式）：https://github.com/SwiftGGTeam/Falcon
 
