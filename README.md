@@ -79,15 +79,18 @@ iOS 代码（冬瓜原话：只实现了架构范式）：https://github.com/Swi
 
 目标：长期维护这类核心的内容，希望提供一些比较权威的参考，便于中文社区更好的发展。
 
+继续找类似的高质量内容，加入长期维护项目中。
+
 - Swift 官方文档
 - Code Style
+- Google Code Style
 - 术语表
 
 分工：
 
 |做什么？|谁|
 |---|---|
-|翻译和整理|思琦、Nemocdz|
+|Google Code Style|Nemocdz|
 
 ### 计划中的内容
 
