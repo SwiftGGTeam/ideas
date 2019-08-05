@@ -81,6 +81,8 @@ iOS 代码（冬瓜原话：只实现了架构范式）：https://github.com/Swi
 
 继续找类似的高质量内容，加入长期维护项目中。
 
+长期维护内容需要定期检查更新，通过 zapier 自动发邮件给对应负责人。暂定一个月发一次，收到之后请检查原文是否更新，无论是否有更新，检查完毕之后都要更新对应项目的 README，记录日期和状态。
+
 - Swift 官方文档
 - Code Style
 - Google Code Style
@@ -88,9 +90,11 @@ iOS 代码（冬瓜原话：只实现了架构范式）：https://github.com/Swi
 
 分工：
 
-|做什么？|谁|
-|---|---|
-|Google Code Style|Nemocdz|
+|做什么？|谁？|进度？|
+|---|---|---|
+|[API Design Guidelines 中文版](https://github.com/SketchK/the-swift-api-design-guidelines-in-chinese)|思琦|已发布|
+|[raywenderlich.com 官方代码风格指南中文版](https://github.com/SketchK/swift-style-guide-by-raywenderlich-in-chinese)|思琦|已发布|
+|Google Code Style|Nemocdz|翻译中|
 
 ### 计划中的内容
 
