@@ -94,7 +94,7 @@ iOS 代码（冬瓜原话：只实现了架构范式）：https://github.com/Swi
 |---|---|---|
 |[API Design Guidelines 中文版](https://github.com/SketchK/the-swift-api-design-guidelines-in-chinese)|思琦|已发布|
 |[raywenderlich.com 官方代码风格指南中文版](https://github.com/SketchK/swift-style-guide-by-raywenderlich-in-chinese)|思琦|已发布|
-|Google Code Style|Nemocdz|翻译中|
+|Google Code Style|Nemocdz|翻译中，后续和 Google 沟通，看能否 PR 过去，可能需要基于原项目现有的页面写一点前端代码|
 |Swift Tips|灰s|翻译中，翻译完成 PR 给原作者，尝试用脚本自动[生成图片](https://github.com/dawnlabs/carbon)，后续发布到微博和微信|
 
 ### 计划中的内容
